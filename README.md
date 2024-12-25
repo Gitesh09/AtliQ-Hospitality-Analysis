@@ -46,26 +46,30 @@ The dashboard comprises Four pages-->
 ### **1. Home Page** - This is a landing page, when a user log-in first time he or she will land on this page and they can navigate to different pages from the home page 
 
 
-![home page final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/f44f6c30-5cb1-43a0-8d14-7e422fe8a1c5)
+
+
+
+![Home](https://github.com/user-attachments/assets/53783255-38a5-4142-afa8-02091f229257)
+
 
 
 ### 2. Overview Page - Here you will find an overview of all the metrics
 
-![overview page final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/395e8f23-ca32-48c7-af53-ce66ee86d0a4)
+![Outline](https://github.com/user-attachments/assets/36589ca4-92e5-4371-9e4d-ae46508efdd4)
 
 
 
 ### 3. Revenue & Occupancy Contributors Page (R&O) - This page tells you about the revenue and occupancy
 
 
-![R 0 page final](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/fd94276d-4fb9-4570-952a-e5ece4bc6e0f)
+![Revenue   Occ  view](https://github.com/user-attachments/assets/33d2ae33-3de4-49fa-8366-7b3a2d21050e)
 
 
 
 ### 4. Booking & Average Rating Contributors Page (B& AR) - This page tells you about the Bookings and Ratings
 
 
-![B   AR final page](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/6b92173b-3099-4e37-80ff-d59d04e1a24e)
+![Booking  Avg Ratings view](https://github.com/user-attachments/assets/805b6436-c298-46d0-be9e-8bb84a012c67)
 
 
 ## Insights 
