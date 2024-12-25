@@ -36,7 +36,7 @@ The datasets contain Two types of tables -->
 Here is the Datamodel that I have worked on and it's a STAR SCHEMA
 
 
-![data model](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/333260ba-ddb1-4ccc-8767-2ae75ce1524b)
+![Data Model](https://github.com/user-attachments/assets/a76f145b-9d78-40d5-ab28-d63b5838b1db)
 
 
 ## Power BI Dashboard Overview:
